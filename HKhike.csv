@@ -1,0 +1,90 @@
+﻿name,type,length_km,duration_hour,difficulty,region,type_of_view,rating,elevation_gain
+MacLehose Trail (Section 1) Pak Tam Chung to Long Ke,Long-distance Trail,10.6,3,Hard,Sai Kung,"beach, lake",4.5/5 (AllTrails),"1,250 ft"
+MacLehose Trail (Section 2) Long Ke to Pak Tam Au,Long-distance Trail,13.5,5,Hard,Sai Kung,"beauty of the coast of Hong Kong, Sai Wan beach, azure sky and crystal-clear seawater, stargazing area, Tai Long Wan, Ham Tin Wan, Chek Keng, pier, shingle beaches and mangroves",4.7/5 (AllTrails),"2,168 ft"
+MacLehose Trail (Section 3) Pak Tam Au to Kei Ling Ha,Long-distance Trail,10.2,4,Hard,Sai Kung,"forests, views",4.5/5 (AllTrails),"1,994 ft"
+MacLehose Trail (Section 4) Kei Ling Ha to Tate's Cairn,Long-distance Trail,12.7,5,Hard,Sai Kung,"views, wildflowers",4.5/5 (AllTrails),"2,805 ft"
+MacLehose Trail (Section 5) Tate's Cairn to Tai Po Road,Long-distance Trail,10.6,4.5,Hard,Central New Territories,forests and views,4.5/5 (AllTrails),"1,791 ft"
+MacLehose Trail (Section 6) Tai Po Road to Shing Mun,Long-distance Trail,4.6,1.5,Moderate,Central New Territories,"Forests, Lakes",4.2/5 (AllTrails),679 ft
+MacLehose Trail (Section 7) Shing Mun to Lead Mine Pass,Long-distance Trail,6.2,2.5,Hard,Central New Territories,"Lead Mine Pass, Grassy Hill, Needle Hill, and Shing Mun Reservoir",4.5/5 (AllTrails),"1,971ft"
+MacLehose Trail (Section 8) Lead Mine Pass to Route Twisk,Long-distance Trail,9.7,4,Hard,Central New Territories,"Historical mine caves, Tai Mo Shan, tea cultivation fields, New Territories views, Tsing Ma Bridge views, Shenzhen views, forests, mist-enveloped scenery",4.6/5 (AllTrails),"2,047 ft"
+MacLehose Trail (Section 9) Route Twisk to Tin Fu Tsai,Long-distance Trail,6.3,2.5,Moderate,West New Territories,"observation deck overlooking Tsuen Wan and Stonecutters Bridge, Ho Pui Irrigation Reservoir, forests, native Red Azalea, Skullcap, Snake Strawberries, Dichrocephala integrifolia",4.1/5 (AllTrails),439 ft
+MacLehose Trail (Section 10) Tin Fu Tsai to Tuen Mun,Long-distance Trail,15.6,5,Hard,West New Territories,Thousand-Island Lake of Hong Kong,4.1/5 (AllTrails),"1,213 ft"
+Hong Kong Trail (Section 1) The Peak to Pok Fu Lam Reservoir Road,Hong Kong Trail,7,2,Moderate,Hong Kong Island,"views, wildflowers",4.5/5 (AllTrails),515 ft
+Hong Kong Trail (Section 2) Pok Fu Lam Reservoir Road to Peel Rise,Hong Kong Trail,4.5,1.5,Moderate,Hong Kong Island,"forests, streams, Aberdeen, Lamma Island",NaN,310 meters
+Hong Kong Trail (Section 3) Peel Rise to Wan Chai Gap,Hong Kong Trail,6.5,1.75,Moderate,Hong Kong Island,"green zones, lush woodlands",4.4/5 (AllTrails),490 meters
+Hong Kong Trail (Section 4) Wan Chai Gap to Wong Nai Chung Gap,Hong Kong Trail,7.5,2,Moderate,Hong Kong Island,forests,4.2/5 (AllTrails),"2,395 ft"
+Hong Kong Trail (Section 5) Wong Nai Chung Gap to Mount Parker Road,Hong Kong Trail,4,1.5,Hard,Hong Kong Island,Views,4.4/5 (AllTrails),"1,204ft"
+Hong Kong Trail (Section 7) Tai Tam Road to To Tei Wan,Hong Kong Trail,7.5,2,Moderate,Hong Kong Island,"trees, Tai Tam Bay, Red Hill Peninsula, Lan Nai Wan Village",NaN,NaN
+Hong Kong Trail (Section 8) To Tei Wan to Tai Long Wan,Hong Kong Trail,8.5,2.75,Hard,Hong Kong Island,"Beaches, Forests",4.6/5 (AllTrails),741 ft
+Lantau Trail (Section 1) Mui Wo to Nam Shan,Lantau Trail,2.5,0.75,Easy,Lantau,villages,3.6/5 (AllTrails),485 ft
+Lantau Trail (Section 3) Pak Kung Au to Ngong Ping,Lantau Trail,4.5,2.25,Hard,Lantau,azure sky and verdant woodlands,4.6/5 (AllTrails),"1,833 ft"
+Lantau Trail (Section 5) Sham Wat Road to Man Cheung Po,Lantau Trail,7.5,2.75,Hard,Lantau,"woodland, grassland, waterfalls",4.3/5 (AllTrails),"1,414 ft"
+Lantau Trail (Section 7) Tai O to Kau Ling Chung,Lantau Trail,10.5,3,Hard,Lantau,"shingle beach, mangrove forest, Pearl River Estuary view",4.5/5 (AllTrails),885 ft
+Lantau Trail (Section 8) Kau Ling Chung to Shek Pik,Lantau Trail,5.5,1.5,Moderate,Lantau,"Forests, Lakes",4.2/5 (AllTrails),295 ft
+Lantau Trail (Section 11) Tung Chung Road to Pui O,Lantau Trail,4.5,1.25,Moderate,Lantau,"Beach, Waterfall",4.0/5 (AllTrails),275 ft
+Wilson Trail (Section 1) Stanley Gap Road to Wong Nai Chung Reservoir,Wilson Trail,4.8,3,Hard,Hong Kong Island,"St Stephen's Beach, Stanley Main Beach, D'Aguilar Peninsula, Lo Chau, Po Toi Island, Stanley Village, D'Aguilar Peninsula, ocean",4.6/5 (AllTrails),"1,893 ft"
+Wilson Trail (Section 3) Lam Tin to Tseng Lan Shue,Wilson Trail,9.3,4,Hard,Sai Kung,"views, wildflowers",4.3/5 (AllTrails),"1,131 ft"
+Wilson Trail (Section 4) Tseng Lan Shue to Sha Tin Pass,Wilson Trail,8,3,Hard,Central New Territories,"Woodland, Hong Kong cityscape, Kowloon East, Fei Ngo Shan, Cheung Shan, Pak Sha Wan, Lion Rock, Beacon Hill, Tung Shan, Tate's Cairn, and Temple Hill",4.3/5 (AllTrails),"1,833 ft"
+Wilson Trail (Section 5) Sha Tin Pass to Tai Po Road,Wilson Trail,7.4,2.5,Moderate,Central New Territories,"views of Sha Tin, Tai Wai, Tolo Harbour, Ma On Shan, and diverse flora species",4.1/5 (AllTrails),~640 m/~790 m
+Wilson Trail (Section 8) Yuen Tun Ha to Cloudy Hill,Wilson Trail,9,4,Hard,North New Territories,"cultural sites, reservoir view, forests, views",4.2/5 (AllTrails),"1,433 ft"
+Wilson Trail (Section 9) Cloudy Hill to Pat Sin Leng,Wilson Trail,10.6,4.5,Hard,North New Territories,"Hok Tau Reservoir, Ping Fung Shan, Pat Sin Leng range of eight peaks, 360-degree views of the North East New Territories, Plover Cove Reservoir",4.6/5 (AllTrails),"2,286 ft"
+Wilson Trail (Section 10) Pat Sin Leng to Nam Chung,Wilson Trail,6.8,2.5,Hard,North New Territories,"deserted ancient village, fish ponds, mudflats, and mangroves",3.8/5 (AllTrails),259ft
+Shek Pik Country Trail,Country Trail,5.5,2,Hard,Lantau,"Reservoir, forest, Hong Kong Hawthorn, Rhododendron, Wild Cherry, Cochin-china Homalium, Tian Tan Buddha Statue",4.4/5 (AllTrails),426 ft
+South Lantau Country Trail,Country Trail,10.3,3,Hard,Lantau,"Forests, views",4.5/5 (AllTrails),"1,571 ft"
+Hong Pak Country Trail,Country Trail,3.6,1.75,Moderate,Hong Kong Island,"Green vistas of the surrounding mountain ranges, scenes of birds chirping and flowers blooming, interesting looking rocks, and a full view of the cityscape of Quarry Bay and its neighboring areas.",NaN,685 ft
+Tai Tam Country Trail,Country Trail,2.6,1.5,Hard,Hong Kong Island,"Forests, views",4.0/5 (AllTrails),944 ft
+Pottinger Peak Country Trail,Country Trail,1.9,1.5,Moderate,Hong Kong Island,"coastline and bays of Big Wave Bay and Shek O, scenic coastal beauty of Hong Kong Island",3.9/5 (AllTrails),505ft
+Lung Mun Country Trail,Country Trail,5,2.5,Hard,West New Territories,"Hakka village, streams, urban views, mountains, bridges, straits",4.2/5 (AllTrails),767 ft
+Keung Shan Country Trail,Country Trail,8.2,3,Hard,Lantau,"Forests, Views",4.4/5 (AllTrails),"1,233 ft"
+Double Haven Country Trail,Country Trail,13.2,6,Hard,North New Territories,"Beaches, Forests",4.3/5 (AllTrails),551 ft
+Tei Tong Tsai Country Trail,Country Trail,2,0.75,Easy,Lantau,"Forests, Views",4.5/5 (AllTrails),288 ft
+Sheung Yiu Country Trail,Country Trail,3.3,1.25,Moderate,Sai Kung,"Beaches, Forests",3.9/5 (AllTrails),413 ft
+Yuen Tun Country Trail,Country Trail,9,4,Hard,West New Territories,"Hakka village, views of Sham Tseng, Ma Wan, Tsing Ma Bridge, Tsing Yi, Tai Lam Chung Reservoir, Forests",4.4/5 (AllTrails),"1,381 ft"
+Luk Wu Country Trail,Country Trail,5.3,3,Hard,Sai Kung,"High Island Reservoir views, Tai Long Wan views, Sheung Luk Stream, woods, scenes of Chek Keng Hau, Sham Wan Tsai, Wan Tsai Peninsula and Tap Mun, forests, views, waterfall, bell flowers",4.5/5 (AllTrails),797 ft
+Cheung Sheung Country Trail,Country Trail,4.2,3,Hard,Sai Kung,"marshes, Shek Uk Shan views, Cheung Sheung Plateau, Three Fathoms Cove",NaN,NaN
+Fu Tei Country Trail,Country Trail,4,2,Moderate,West New Territories,"Forests, Lakes",4.3/5 (AllTrails),990 ft
+High Junk Peak Country Trail,Country Trail,6.4,3,Hard,Sai Kung,"Port Shelter, Clearwater Bay, Joss House Bay, Ninepin Group, Basalt Island",4.6/5 (AllTrails),371 m
+Lin Ma Hang Country Trail,Country Trail,2.6,1.5,Hard,North New Territories,"lush green hills, Fung Shui Woods, remnants of rice terraces, views of the MacIntosh Fort (Kong Shan), Lin Ma Hang Lead Mine, Robin's Nest, upland grassland, and secondary woodland",NaN,~430 m/~50 m
+Tai Lam Nature Trail,Nature Trail,10,4,Hard,West New Territories,"Pak Kung Temple, Kat Hing Bridge, Rhodoleia, Romer's Tree Frogs, Tai Lam Chung Reservoir",NaN,NaN
+Rotary Park Nature Trail,Nature Trail,0.8,1,Easy,West New Territories,"lush woodlands, Steep Island, Lamma Island, Tsing Yi, Victoria Peak, Mount Davis",3.7/5 (AllTrails),NaN
+Pat Sin Leng Nature Trail,Nature Trail,4,2,Moderate,North New Territories,"Reservoir, harbor views",3.9/5 (AllTrails),951ft
+Pak Tam Chung Nature Trail,Nature Trail,0.9,0.5,Easy,Sai Kung,"views of fresh and sea water coming together, mangroves, plants like Longans, Night-blooming Cereus, Sandpaper Vine, Sheung Yiu Folk Museum",4.4/5 (AllTrails),95 ft
+Eagle's Nest Nature Trail,Nature Trail,3,1.5,Easy,Central New Territories,"Nature/Wildlife, City Views",3.6/5 (AllTrails),521ft
+Tsiu Hang Nature Trail,Nature Trail,0.8,1,Easy,Sai Kung,"mosses, fungi, decomposing logs, host and nectar plants, special tree species",NaN,~40 m/~50 m
+Pineapple Dam Nature Trail,Nature Trail,NaN,NaN,Easy,Central New Territories,"reservoir scenery, woodlands",NaN,NaN
+Quarry Bay Tree Walk,Tree Walk,1.1,0.6,Easy,Hong Kong Island,"Escape from the city, nature, and wartime history",3/5 (official hiking page),NaN
+Tai Tan Tree Walk,Tree Walk,0.23,0.3,Easy,Sai Kung,"Tree species such as Myrobalan, Ivy Tree, Brisbane Box and Taiwan Acacia",NaN,~8 m/~8 m
+Tai Tong Tree Walk,Tree Walk,0.65,1,Easy,West New Territories,undefined,2-Heart,NaN
+Pok Fu Lam Family Walk,Family Walk,3.5,1,Easy,Hong Kong Island,"reservoir, woodlands, streams",1-Heart (hiking.gov.hk),209.9 ft
+Ma On Shan Family Walk,Family Walk,0.44,0.25,Easy,Central New Territories,"Ma On Shan New Town, Tolo Harbour, Chinese University of Hong Kong, Ma On Shan Country Park, Shing Mun River, Ma On Shan Mine, Grace Youth Camp",NaN,NaN
+Tai Mo Shan Family Walk,Family Walk,0.5,0.33,Easy,West New Territories,Forests,4.6/5 (AllTrails),18 m
+Sheung Yiu Family Walk,Family Walk,1.8,1,Easy,Sai Kung,"natural habitats, Hakka village, woods, rolling hills, bay, mangroves",NaN,NaN
+Ap Chau Geosite,Geo Route,1,1,Easy,North New Territories,"beaches, views",3.9/5 (AllTrails),55 ft
+Lai Chi Chong Geosite,Geo Route,1,1,Easy,Sai Kung,"Beaches, Views, shoreside mangroves, and rocks of varying colours by the shore and under the water",4.0/5 (AllTrails),16 ft
+High Island Geo Trail – Po Pin Chau Section,Geo Route,1.9,2,Moderate,Sai Kung,"Eroded hexagonal volcanic rock columns, pebble beach, East Dam views, High Island Reservoir views, Po Pin Chau sea backdrop",4.0/5 (AllTrails),183 ft
+High Island Geo Trail – East Dam Section (Old),Geo Route,2.8,2,Easy,Sai Kung,undefined,4.0/5 (AllTrails),NaN
+War Relics Trail (Shing Mun),Recommended Route,0.25,0.5,Easy,Central New Territories,"military relics of the Second World War, defence infrastructure, tunnels",NaN,NaN
+Lion Rock War Relics Trail,Recommended Route,9,4,Hard,Central New Territories,"war ruins, pillboxes, direction slabs, trenches, military caves and blockhouse",NaN,NaN
+Pinewood Battery Heritage Trail,Recommended Route,0.38,0.5,Easy,Hong Kong Island,stone staircases and rewarding views,4.4/5 (AllTrails),"1,558 ft"
+Lion Rock Historic Walk,Recommended Route,7,4,Hard,Central New Territories,"relics, ancient stone trails, rock-forms, awe-inspiring scenery, Tolo Harbour, Pat Sin Leng, and the Plover Cove Reservoir to the north. To the south, you can admire the Kowloon Peninsula, Lei Yue Mun, and Victoria Harbour, where skyscrapers rise from beneath the mountains, creating a unique landscape where the city meets the countryside.",NaN,NaN
+Nam Chung Country Trail,Country Trail,13.2,6,Hard,North New Territories,Forests,4.1/5 (AllTrails),"1,282 ft"
+Nei Lak Shan Country Trail,Country Trail,NaN,NaN,Moderate,Lantau,"Forests, Views",4.3/5 (AllTrails),820 ft
+Wong Lung Hang Country Trail,Country Trail,NaN,NaN,Hard,Lantau,undefined,4.5/5 (AllTrails),NaN
+Tai Lam Chung Country Trail,Country Trail,NaN,NaN,Hard,West New Territories,undefined,4.4/5 (AllTrails),"1,243 ft"
+Shing Mun Reservoir Walk,Recommended Route,NaN,NaN,Hard,Central New Territories,"forests, lakes",4.4/5 (AllTrails),866 ft
+Hong Kong Trail (Dragon’s Back) highlight,Hong Kong Trail,8.5,2.75,Hard,Hong Kong Island,"Lush countryside, craggy coastline, beaches, forests",4.7/5 (AllTrails),557 ft
+Tai Tam to Tai Koo (Tai Tam Reservoir Section),Recommended Route,NaN,NaN,Moderate,Hong Kong Island,"lush green, biodiversity, reservoirs",NaN,~390 m/~600 m
+Wong Shek Family Walk,Family Walk,NaN,NaN,Easy,Sai Kung,beaches,4.4/5 (Wanderlog),~130 m
+Ngong Ping Tree Walk,Tree Walk,NaN,NaN,Easy,Lantau,undefined,NaN,~10 m
+Nam Shan Tree Walk,Tree Walk,0.44,NaN,Easy,Lantau,wooded path,NaN,~30 m/~20 m
+Kei Ling Ha Tree Walk,Tree Walk,0.65,NaN,Easy,Central New Territories,Forest,NaN,~30 m/~30 m
+Kap Lung Ancient Trail Country Trail,Country Trail,NaN,NaN,Moderate,West New Territories,"Forests, Views",3.6/5 (AllTrails),"1,463ft"
+War Department Marker Stone Spur (Beacon Hill),Recommended Route,NaN,NaN,Hard,Central New Territories,undefined,NaN,NaN
+Pak Tam Chung to Biu Tsim Kok Hiking Trail,Recommended Route,NaN,NaN,Hard,Sai Kung,undefined,NaN,NaN
+Shui Long Wo to Tai Shui Tseng,Recommended Route,NaN,NaN,Hard,Sai Kung,"Pyramid Hill, Ma On Shan, The Hunch Backs",4.7/5 (AllTrails),"1,729 ft"
+Tai Tong to Wong Nai Tun Reservoir,Recommended Route,7.1,3.5,Hard,West New Territories,"Sweet Gum Woods, Thousand-Island Lake",5 hearts,NaN
+Hong Kong Trail (Section 6) Mount Parker Road to Tai Tam Road,Hon g Kong Trail,NaN,NaN,Moderate,Hong Kong Island,Tai Tam Reservoir,4.4/5 (AllTrails),180 ft
+MacLehose Trail overall,Long-distance Trail,100,NaN,Hard,New Territories,"beaches, mountains",4.3/5 (AllTrails),"16,571 ft"
+Hong Kong Trail overall,Long-distance Trail,50,NaN,Moderate,Hong Kong Island,Views and tourist attractions,4.6/5 (AllTrails),"5,524 ft"
+Lantau Trail overall,Long-distance Trail,70,NaN,Moderate,Lantau,"mountain peaks, traditional villages, coastal scenery",4.4/5 (AllTrails),"3,059 m (10,036 ft)"
+Wilson Trail overall,Long-distance Trail,78,NaN,Hard,Hong Kong Island / New Territories,"Tai Tam, Quarry Bay, Ma On Shan, Lion Rock, Kam Shan, Shing Mun, Tai Mo Shan, Pat Sin Leng, monkey territory",NaN,"5,407 m (17,740 ft)"
