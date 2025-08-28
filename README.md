@@ -18,23 +18,11 @@ TF-IDF: Transforms text into term frequency-inverse document frequency vectors.
 
 ### Numerical Features: Trail length (km), elevation gain (m), and difficulty scores....
 
-## Clustering Algorithms
+### Clustering Algorithms
 
 K-Means: Groups trails into K clusters based on combined text and numerical features.
 DBSCAN: Clusters trails by density, identifying outliers (e.g., unique trails).
 
-## Project Structure
-texthiking-trails-classification/
-├── data/                    # Dataset (CSV)
-
-├── notebooks/               # Jupyter notebooks for exploration
-├── src/                     # Source code
-│   ├── hikinghk.ipynb       # Numerical preprocessing
-│   ├── categorical.ipynb    # Text preprocessing
-│   ├── algorithm.ipynb      # K-Means and DBSCAN implementation
-├── README.md                # Project documentation
-└── requirements.txt         # Dependencies
-## Installation
 
 ### Clone the repository:
 bashgit clone [https://github.com/yourusername/hiking-trails-classification.git](https://github.com/cuong123-tech/hikingHK.git)
